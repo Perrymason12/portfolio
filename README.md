@@ -10,11 +10,13 @@ as a software developer. built to highligtht both design and technical capabilit
 ## ⚒ Technologies used 
 
 HTML5
+
 CSS3( with animations)
 
 ## Features 
 
 Animated transitions and hover effects
+
 Project showcase with image thumbnails 
 
 ## 🧠 What i Learned 
