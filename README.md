@@ -22,8 +22,11 @@ Project showcase with image thumbnails
 ## 🧠 What i Learned 
 
 Through building this portfolio , I enhanced my skills in:
+
 Frontend design and user experience
+
 deploying static websites using Netlify
+
 Organizing and Documenting personal codebases
 
 ## 📸 Screenshots
