@@ -25,7 +25,7 @@ Through building this portfolio , I enhanced my skills in:
 
 Frontend design and user experience
 
-deploying static websites using Netlify
+deploying static websites using Git hub pages
 
 Organizing and Documenting personal codebases
 
