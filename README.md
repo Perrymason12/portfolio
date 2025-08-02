@@ -5,7 +5,7 @@ as a software developer. built to highligtht both design and technical capabilit
 
 # 🚀 live Demo
 
-👉 [visit my Portfolio]()
+👉 [visit my Portfolio](https://perrymason12.github.io/portfolio/)
 
 ## ⚒ Technologies used 
 
